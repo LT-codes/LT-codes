@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**LT-codes/LT-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **LT**, an engineer exploring the intersection of **mechanical engineering** and **software development**. 
 
-Here are some ideas to get you started:
+💡I'm currently learning **Python** and exploring how programming can be used to automate technical workflows and data analysis in materials and testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩**What I'm working on**
+  -  'Tensile Test Analyzer' - my first Python project: a GUI tool for automated analysis of tensile test data
+
+📘**Next learning goals**
+  - Strengthen Python fundamentals
+  - Learn to use Pandas and Matplotlib for data analysis and visualization
+  - Build a small practical project to apply what I learn
+
+🛠️**Background**
+  - M. Sc. Mechanical Engineering
+  - Research Associate in the field of material science
+
+⚙️**Long-term goal**
+  - To combine my engineering background with programming - working on digitalization, automation or data-related tasks in the technical field.
